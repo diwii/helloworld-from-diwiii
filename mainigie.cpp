@@ -23,7 +23,7 @@ int main() // Galvenā programmas funkcija
     cin >> a; // Nodrošina ievadi no klaviatūras.
     
     cout << "Input b:";
-    cin >> b; // cin, cout ir objektu vārdi.
+    cin >> b; // cin, cout ir objektu vārdi, consolein un consoleout
 
     // Drīkst arī šādi:
     // cin >> a >> b; // atdalīt mainīgos ar '>>'

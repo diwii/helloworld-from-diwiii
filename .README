@@ -1,0 +1,13 @@
+TODO:
+Namespaces,
+Mainīgo tipi valodā C++,
+
+"=" piešķiršanas operators.
+
+"/" dalīšanas operators.
+"6/4 = 1",
+"6.0/4 = 1.25"
+"6/4.0 = 1.25"
+
+"%" atlikuma saņemšanas operators no veselu skaitļu dalīšanas.
+"6%4 -> 2"
