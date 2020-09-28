@@ -11,8 +11,8 @@ using namespace std; // Izmantot nosaukumus no C++ standarta bibliotēkas
 */
 int main() // Galvenā programmas funkcija
 {
-    int a = 13/5; // integer 
-    int b = 13%5; // atlikuma saņemšanas operators
+    int a = 13/5;
+    int b = 13%5;
     int c = 13.0/5;
     double d = 13/5;
     double e = 13%5;

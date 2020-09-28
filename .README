@@ -9,5 +9,5 @@ Mainīgo tipi valodā C++,
 "6.0/4 = 1.25"
 "6/4.0 = 1.25"
 
-"%" atlikuma saņemšanas operators no veselu skaitļu dalīšanas.
+"%" modulo - atlikuma saņemšanas operators no veselu skaitļu dalīšanas.
 "6%4 -> 2"
