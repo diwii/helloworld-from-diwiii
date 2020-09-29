@@ -15,7 +15,11 @@ using namespace std; // Izmantot nosaukumus no C++ standarta bibliotēkas
 */
 int main() // Galvenā programmas funkcija
 {
-    int x = 2; // x^1
+    int x; // x^1
+
+    cout << "Ievadiet skaitli:" << endl;
+    cin >> x;
+
     int x2 = x*x; // x^2
     int x3 = x*x*x; // x^3
     int x6 = x3*x3; // x^6

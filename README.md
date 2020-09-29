@@ -12,3 +12,6 @@ Mainīgo tipi valodā C++,
 
 "%" modulo - atlikuma saņemšanas operators no veselu skaitļu dalīšanas.
 "6%4 -> 2"
+
+Avots:
+https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/
