@@ -1,5 +1,6 @@
+Mainīgie var būt saglabāti iekš namespace{}, ārpus main() galvenās programmas funkcijas.
+
 TODO:
-Namespaces,
 Mainīgo tipi valodā C++,
 
 "=" piešķiršanas operators.
