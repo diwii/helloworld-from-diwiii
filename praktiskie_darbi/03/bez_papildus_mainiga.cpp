@@ -21,8 +21,8 @@ int main() // Galvenā programmas funkcija
          << "a: " << a << endl << "b: " << b << endl;
 
     a = a + b; // a ir abu mainīgo summa (total).
-    b = a - b; // 
-    a = a - b; // 
+    b = a - b; 
+    a = a - b;
 
     cout << "Apmainīti vietām:" << endl
          << "a: " << a << endl << "b: " << b << endl;
