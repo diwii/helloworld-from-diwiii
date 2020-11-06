@@ -13,8 +13,8 @@ using namespace std; // Izmantot nosaukumus no C++ standarta bibliotēkas
 int main() // Galvenā programmas funkcija
 {
 
-    int h, m, g;
-    double s;
+    int h, m;
+    double s, g;
 
     cout << "h:m:s: " << endl;
     cin >> h >> m >> s;
@@ -25,9 +25,9 @@ int main() // Galvenā programmas funkcija
 
     // 12h * 60min * 60s = 43200 sekundes
     // 43200sek / 360gradi = 120sek = 1grads
-    s = s / 120.0; // Total sekundes dala ar 120 sekundēm, iegūst grādus, jo 1 grāds = 120sek.
+    g = s / 120.0; // Total sekundes dala ar 120 sekundēm, iegūst grādus, jo 1 grāds = 120sek.
 
-    cout << "gradi: " << s << endl;
+    cout << "gradi: " << g << endl;
     
     // system("pause"); Operētājsistēmas specifiska komanda/konstrukcija.
     return 0; // Atgriež operētājsistēmai 0
